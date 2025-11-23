@@ -1,4 +1,4 @@
-Debut
+##### Debut
     Si aucan argument alors
         affiche il manque les noms d'utilisateurs en argument 
         terminer
@@ -22,5 +22,6 @@ Debut
     fin si
         affiche fin de script
 
-Fin
+###### Fin
+
 
